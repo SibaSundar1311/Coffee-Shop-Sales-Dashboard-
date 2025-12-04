@@ -1,4 +1,4 @@
-☕ Coffee Shop Sales Dashboard
+# ☕ Coffee Shop Sales Dashboard
 
 A comprehensive and interactive dashboard analyzing sales, customer footfall, product performance, order patterns, and store-level insights for a coffee business.
 
